@@ -1,0 +1,4 @@
+Tier,Optimal_Discount_ROI,Predicted_Peak_ROI,Poly_Degree,R2,Optimal_Discount_Satisfaction,Predicted_Peak_Satisfaction
+Basic,69.0,2.8728,3,0.0007,46.5,2.5526
+Standard,35.3,2.7812,3,0.0008,10.0,2.5662
+Premium,10.0,2.8251,3,0.002,10.0,2.5728

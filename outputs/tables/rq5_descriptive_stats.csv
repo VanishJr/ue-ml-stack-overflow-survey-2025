@@ -1,0 +1,4 @@
+Subscription_Tier,Count,ROI_Mean,ROI_Std,ROI_Median,ROI_Min,ROI_Max,Revenue_Generated_Mean,Revenue_Generated_Std,Revenue_Generated_Median,Revenue_Generated_Min,Revenue_Generated_Max,Units_Sold_Mean,Units_Sold_Std,Units_Sold_Median,Units_Sold_Min,Units_Sold_Max
+Basic,3416,2.7908,1.2909,2.85,0.5,5.0,50157.9182,28425.9808,49564.08,1020.84,99995.06,101.793,57.2814,103.0,1,199
+Premium,3284,2.7394,1.2991,2.69,0.5,5.0,50093.1398,28566.1351,50360.955,1049.04,99999.47,99.9534,58.0532,100.0,1,199
+Standard,3300,2.7376,1.3006,2.73,0.5,5.0,49860.8958,28656.6067,48727.495,1002.08,99958.93,100.28,55.8634,99.0,1,199

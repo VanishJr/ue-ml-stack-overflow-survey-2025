@@ -1,0 +1,10 @@
+Metric,Tier_A,Tier_B,U_stat,p_raw,p_bonferroni,Significant,Cohens_d
+ROI,Basic,Premium,5737766.5,0.10395,0.311851,False,0.0397
+ROI,Basic,Standard,5769570.0,0.093648,0.280945,False,0.0411
+ROI,Premium,Standard,5423540.5,0.948923,1.0,False,0.0014
+Revenue_Generated,Basic,Premium,5616863.5,0.921586,1.0,False,0.0023
+Revenue_Generated,Basic,Standard,5671198.5,0.661337,1.0,False,0.0104
+Revenue_Generated,Premium,Standard,5444018.0,0.741702,1.0,False,0.0081
+Units_Sold,Basic,Premium,5712410.5,0.191672,0.575016,False,0.0319
+Units_Sold,Basic,Standard,5723888.0,0.270729,0.812188,False,0.0267
+Units_Sold,Premium,Standard,5400021.5,0.809623,1.0,False,-0.0057

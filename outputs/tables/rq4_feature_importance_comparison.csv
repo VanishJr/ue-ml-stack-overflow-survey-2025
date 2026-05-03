@@ -1,0 +1,15 @@
+Feature,Gradient Boosting,Random Forest,XGBoost,Random Forest_Rank,XGBoost_Rank,Gradient Boosting_Rank,Mean_Rank
+Bundle_Price,0.146503,0.122891,0.086669,1,5,1,2.33
+ROI,0.108272,0.103565,0.087886,4,4,5,4.33
+Revenue_Generated,0.110096,0.111302,0.082618,3,8,4,5.0
+Conversion_Rate,0.092739,0.087637,0.094982,8,1,6,5.0
+Budget,0.132048,0.112773,0.067201,2,12,2,5.33
+Units_Sold,0.077764,0.095112,0.089683,7,2,9,6.0
+Clicks,0.115291,0.096197,0.072804,6,11,3,6.67
+Conversions,0.083239,0.097317,0.080301,5,10,7,7.33
+Subscription_Length,0.037598,0.07019,0.088115,10,3,10,7.67
+Discount_Level,0.078354,0.085786,0.083531,9,7,8,8.0
+Subscription_Tier_Premium,0.004255,0.008489,0.085212,12,6,12,10.0
+Subscription_Tier_Standard,0.013841,0.008742,0.080997,11,9,11,10.33
+Has_Flash_Sale,0.0,0.0,0.0,13,13,13,13.0
+Has_Bundle,0.0,0.0,0.0,13,13,13,13.0

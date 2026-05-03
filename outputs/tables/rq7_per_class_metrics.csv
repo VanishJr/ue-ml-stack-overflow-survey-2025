@@ -1,0 +1,4 @@
+Class,Precision,Recall,F1,OVR_AUC,Support
+Basic,0.3524,0.3524,0.3524,0.4954,683
+Premium,0.3397,0.3397,0.3397,0.4998,657
+Standard,0.3378,0.3378,0.3378,0.516,660
