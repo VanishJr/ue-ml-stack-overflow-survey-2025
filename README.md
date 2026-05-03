@@ -11,7 +11,7 @@ This project applies seven distinct machine learning methodologies to the **Mark
 | Property | Details |
 |---|---|
 | **Name** | Marketing and Product Performance Dataset |
-| **Source** | [Kaggle — imranalishahh](https://www.kaggle.com/datasets/vanishjr/marketing-product-performance) |
+| **Source** | [Kaggle — imranalishahh](https://www.kaggle.com/datasets/imranalishahh/marketing-and-product-performance-dataset) |
 | **Type** | Synthetic |
 | **Columns** | 16 |
 | **Description** | Analyze Marketing Campaigns and Product Metrics with Synthetic Data |
