@@ -1,4 +1,19 @@
-Subscription_Tier,Count,ROI_Mean,ROI_Std,ROI_Median,ROI_Min,ROI_Max,Revenue_Generated_Mean,Revenue_Generated_Std,Revenue_Generated_Median,Revenue_Generated_Min,Revenue_Generated_Max,Units_Sold_Mean,Units_Sold_Std,Units_Sold_Median,Units_Sold_Min,Units_Sold_Max
-Basic,3416,2.7908,1.2909,2.85,0.5,5.0,50157.9182,28425.9808,49564.08,1020.84,99995.06,101.793,57.2814,103.0,1,199
-Premium,3284,2.7394,1.2991,2.69,0.5,5.0,50093.1398,28566.1351,50360.955,1049.04,99999.47,99.9534,58.0532,100.0,1,199
-Standard,3300,2.7376,1.3006,2.73,0.5,5.0,49860.8958,28656.6067,48727.495,1002.08,99958.93,100.28,55.8634,99.0,1,199
+Group_Variable,Group,Metric,Mean,Std,Median,Min,Max,Count
+Experience,0-2 yrs,AISent_num,4.1667,0.9339,4.0,1.0,5.0,60
+Experience,3-5 yrs,AISent_num,3.7255,1.1534,4.0,1.0,5.0,419
+Experience,6-10 yrs,AISent_num,3.636,1.2132,4.0,1.0,5.0,890
+Experience,11+ yrs,AISent_num,3.6085,1.2418,4.0,1.0,5.0,2879
+Experience,0-2 yrs,AIAcc_num,3.4833,1.0246,4.0,1.0,5.0,60
+Experience,3-5 yrs,AIAcc_num,3.0358,1.1483,3.0,1.0,5.0,419
+Experience,6-10 yrs,AIAcc_num,2.7697,1.1726,3.0,1.0,5.0,890
+Experience,11+ yrs,AIAcc_num,2.662,1.1843,3.0,1.0,5.0,2879
+Experience,0-2 yrs,JobSat_num,7.05,2.1635,7.0,0.0,10.0,60
+Experience,3-5 yrs,JobSat_num,7.0692,2.0314,7.0,0.0,10.0,419
+Experience,6-10 yrs,JobSat_num,7.3169,1.9484,8.0,0.0,10.0,890
+Experience,11+ yrs,JobSat_num,7.6916,1.8495,8.0,0.0,10.0,2879
+Employment,Freelancer/Contractor,AISent_num,3.6906,1.2073,4.0,1.0,5.0,3584
+Employment,Student,AISent_num,3.3268,1.2778,4.0,1.0,5.0,664
+Employment,Freelancer/Contractor,AIAcc_num,2.7617,1.1767,3.0,1.0,5.0,3584
+Employment,Student,AIAcc_num,2.5783,1.2173,2.0,1.0,5.0,664
+Employment,Freelancer/Contractor,JobSat_num,7.6342,1.8871,8.0,0.0,10.0,3584
+Employment,Student,JobSat_num,7.0482,1.9398,7.0,0.0,10.0,664

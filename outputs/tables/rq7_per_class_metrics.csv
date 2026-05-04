@@ -1,4 +1,43 @@
-Class,Precision,Recall,F1,OVR_AUC,Support
-Basic,0.3524,0.3524,0.3524,0.4954,683
-Premium,0.3397,0.3397,0.3397,0.4998,657
-Standard,0.3378,0.3378,0.3378,0.516,660
+Target,Model,Class,Precision,Recall,F1,Support,OVR_AUC
+ICorPM,Logistic Regression,0,0.9009,0.634,0.7442,5664,0.6571
+ICorPM,Logistic Regression,1,0.2198,0.5965,0.3212,979,0.6571
+ICorPM,Logistic Regression,macro avg,0.5603,0.6153,0.5327,6643,0.6571
+ICorPM,Logistic Regression,weighted avg,0.8005,0.6285,0.6819,6643,0.6571
+ICorPM,Random Forest,0,0.884,0.7564,0.8152,5664,0.6638
+ICorPM,Random Forest,1,0.2321,0.4259,0.3004,979,0.6638
+ICorPM,Random Forest,macro avg,0.558,0.5912,0.5578,6643,0.6638
+ICorPM,Random Forest,weighted avg,0.7879,0.7077,0.7394,6643,0.6638
+ICorPM,LightGBM,0,0.9133,0.6061,0.7286,5664,0.688
+ICorPM,LightGBM,1,0.2264,0.667,0.3381,979,0.688
+ICorPM,LightGBM,macro avg,0.5698,0.6366,0.5334,6643,0.688
+ICorPM,LightGBM,weighted avg,0.8121,0.6151,0.6711,6643,0.688
+DevType_Group,Logistic Regression,Architect,0.2279,0.3265,0.2684,536,0.7927
+DevType_Group,Logistic Regression,Backend,0.5521,0.2219,0.3165,1289,0.7927
+DevType_Group,Logistic Regression,Data/AI,0.3156,0.5272,0.3948,404,0.7927
+DevType_Group,Logistic Regression,DevOps,0.1447,0.3744,0.2087,211,0.7927
+DevType_Group,Logistic Regression,Embedded,0.3045,0.6627,0.4173,255,0.7927
+DevType_Group,Logistic Regression,Frontend,0.2885,0.5228,0.3718,394,0.7927
+DevType_Group,Logistic Regression,Full-Stack,0.7129,0.2666,0.3881,2468,0.7927
+DevType_Group,Logistic Regression,Mobile,0.1558,0.6367,0.2504,278,0.7927
+DevType_Group,Logistic Regression,macro avg,0.3377,0.4424,0.327,5835,0.7927
+DevType_Group,Logistic Regression,weighted avg,0.5117,0.3364,0.3489,5835,0.7927
+DevType_Group,Random Forest,Architect,0.2279,0.3265,0.2684,536,0.7882
+DevType_Group,Random Forest,Backend,0.5567,0.2475,0.3426,1289,0.7882
+DevType_Group,Random Forest,Data/AI,0.3492,0.4356,0.3877,404,0.7882
+DevType_Group,Random Forest,DevOps,0.2149,0.1232,0.1566,211,0.7882
+DevType_Group,Random Forest,Embedded,0.4382,0.6118,0.5106,255,0.7882
+DevType_Group,Random Forest,Frontend,0.3598,0.4365,0.3945,394,0.7882
+DevType_Group,Random Forest,Full-Stack,0.6416,0.4571,0.5338,2468,0.7882
+DevType_Group,Random Forest,Mobile,0.1441,0.6619,0.2367,278,0.7882
+DevType_Group,Random Forest,macro avg,0.3666,0.4125,0.3539,5835,0.7882
+DevType_Group,Random Forest,weighted avg,0.4976,0.4003,0.4189,5835,0.7882
+DevType_Group,LightGBM,Architect,0.2247,0.3806,0.2825,536,0.8013
+DevType_Group,LightGBM,Backend,0.5194,0.2801,0.3639,1289,0.8013
+DevType_Group,LightGBM,Data/AI,0.3268,0.4926,0.3929,404,0.8013
+DevType_Group,LightGBM,DevOps,0.1475,0.2607,0.1884,211,0.8013
+DevType_Group,LightGBM,Embedded,0.3164,0.6588,0.4275,255,0.8013
+DevType_Group,LightGBM,Frontend,0.3063,0.5457,0.3923,394,0.8013
+DevType_Group,LightGBM,Full-Stack,0.6982,0.3318,0.4499,2468,0.8013
+DevType_Group,LightGBM,Mobile,0.1836,0.5576,0.2763,278,0.8013
+DevType_Group,LightGBM,macro avg,0.3404,0.4385,0.3467,5835,0.8013
+DevType_Group,LightGBM,weighted avg,0.5019,0.3729,0.389,5835,0.8013

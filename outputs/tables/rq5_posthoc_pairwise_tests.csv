@@ -1,10 +1,22 @@
-Metric,Tier_A,Tier_B,U_stat,p_raw,p_bonferroni,Significant,Cohens_d
-ROI,Basic,Premium,5737766.5,0.10395,0.311851,False,0.0397
-ROI,Basic,Standard,5769570.0,0.093648,0.280945,False,0.0411
-ROI,Premium,Standard,5423540.5,0.948923,1.0,False,0.0014
-Revenue_Generated,Basic,Premium,5616863.5,0.921586,1.0,False,0.0023
-Revenue_Generated,Basic,Standard,5671198.5,0.661337,1.0,False,0.0104
-Revenue_Generated,Premium,Standard,5444018.0,0.741702,1.0,False,0.0081
-Units_Sold,Basic,Premium,5712410.5,0.191672,0.575016,False,0.0319
-Units_Sold,Basic,Standard,5723888.0,0.270729,0.812188,False,0.0267
-Units_Sold,Premium,Standard,5400021.5,0.809623,1.0,False,-0.0057
+Group_Variable,Metric,Group_A,Group_B,U_stat,p_raw,p_bonferroni,Significant,Cohens_d,F_stat,H_stat,Eta_squared,Eps_squared
+Experience,AISent_num,0-2 yrs,3-5 yrs,15301.5,0.004305,0.025827,True,0.3902,4.9835,14.3925,0.0035,0.0027
+Experience,AISent_num,0-2 yrs,6-10 yrs,33365.0,0.000729,0.004373,True,0.4427,4.9835,14.3925,0.0035,0.0027
+Experience,AISent_num,0-2 yrs,11+ yrs,108386.0,0.000443,0.002656,True,0.4513,4.9835,14.3925,0.0035,0.0027
+Experience,AISent_num,3-5 yrs,6-10 yrs,193160.0,0.273071,1.0,False,0.0749,4.9835,14.3925,0.0035,0.0027
+Experience,AISent_num,3-5 yrs,11+ yrs,630206.5,0.122811,0.736866,False,0.095,4.9835,14.3925,0.0035,0.0027
+Experience,AISent_num,6-10 yrs,11+ yrs,1292963.0,0.665588,1.0,False,0.0222,4.9835,14.3925,0.0035,0.0027
+Experience,AIAcc_num,0-2 yrs,3-5 yrs,15358.0,0.003758,0.02255,True,0.394,21.1553,61.8578,0.0147,0.0139
+Experience,AIAcc_num,0-2 yrs,6-10 yrs,35736.0,5e-06,3.2e-05,True,0.6126,21.1553,61.8578,0.0147,0.0139
+Experience,AIAcc_num,0-2 yrs,11+ yrs,119643.5,0.0,1e-06,True,0.695,21.1553,61.8578,0.0147,0.0139
+Experience,AIAcc_num,3-5 yrs,6-10 yrs,209264.0,0.000214,0.001283,True,0.2283,21.1553,61.8578,0.0147,0.0139
+Experience,AIAcc_num,3-5 yrs,11+ yrs,708239.0,0.0,0.0,True,0.3167,21.1553,61.8578,0.0147,0.0139
+Experience,AIAcc_num,6-10 yrs,11+ yrs,1348552.5,0.014275,0.085652,False,0.0911,21.1553,61.8578,0.0147,0.0139
+Experience,JobSat_num,0-2 yrs,3-5 yrs,12528.0,0.966527,1.0,False,-0.0094,20.2121,63.0724,0.0141,0.0142
+Experience,JobSat_num,0-2 yrs,6-10 yrs,24824.5,0.354237,1.0,False,-0.1358,20.2121,63.0724,0.0141,0.0142
+Experience,JobSat_num,0-2 yrs,11+ yrs,71159.0,0.017234,0.103402,False,-0.3455,20.2121,63.0724,0.0141,0.0142
+Experience,JobSat_num,3-5 yrs,6-10 yrs,173360.0,0.03708,0.222477,False,-0.1253,20.2121,63.0724,0.0141,0.0142
+Experience,JobSat_num,3-5 yrs,11+ yrs,490996.0,0.0,0.0,True,-0.3321,20.2121,63.0724,0.0141,0.0142
+Experience,JobSat_num,6-10 yrs,11+ yrs,1126909.5,0.0,0.0,True,-0.2,20.2121,63.0724,0.0141,0.0142
+Employment,AISent_num,Freelancer/Contractor,Student,1384247.5,0.0,0.0,True,0.2984,49.8976,48.4432,0.0116,0.0112
+Employment,AIAcc_num,Freelancer/Contractor,Student,1291949.0,0.000286,0.000286,True,0.155,13.4555,13.1631,0.0032,0.0029
+Employment,JobSat_num,Freelancer/Contractor,Student,1415890.0,0.0,0.0,True,0.3091,53.5229,62.748,0.0124,0.0145

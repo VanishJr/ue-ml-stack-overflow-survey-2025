@@ -1,4 +1,4 @@
 Model_A,Model_B,Spearman_rho,p_value
-RF,XGB,0.2115,0.468
-RF,GB,0.9471,0.0
-XGB,GB,0.185,0.5266
+Random Forest,XGBoost,0.16,0.398479
+Random Forest,Gradient Boosting,0.8714,0.0
+XGBoost,Gradient Boosting,0.4403,0.0149

@@ -1,3 +1,5 @@
-Cluster,Budget,Clicks,Conversions,Revenue_Generated,ROI,Units_Sold,Bundle_Price,Discount_Level,Subscription_Length,Conversion_Rate,Customer_Satisfaction_Post_Refund,Dominant_Subscription_Tier,Has_Flash_Sale_Rate,Count,Pct
-0,25317.4085,2466.5849,500.1223,49934.0555,2.7535,100.4701,273.8695,39.2327,17.9003,0.5938,3.5029,Basic,1.0,4963,49.63
-1,25210.5969,2496.9972,497.8519,50141.6634,2.7592,100.9059,276.5077,39.6065,18.131,0.6255,1.5136,Basic,1.0,5037,50.37
+Cluster,YearsCode_mean,WorkExp_mean,OrgSize_num_mean,EdLevel_num_mean,AI_User_mean,RemoteWork_num_mean,lang_Python_rate,lang_C++_rate,lang_C_rate,lang_Bash_Shell_(all_shells)_rate,lang_JavaScript_rate,Count,Pct,Dominant_DevType,lang_SQL_rate,lang_C#_rate,lang_Java_rate,lang_Kotlin_rate,lang_HTML_CSS_rate,lang_TypeScript_rate
+0,19.897,14.487,4.603,3.402,0.671,1.049,0.793,0.785,0.757,0.669,0.56,4887,13.06,"Developer, full-stack",,,,,,
+1,15.99,11.905,4.394,3.252,0.834,1.175,0.087,,,0.048,,16559,44.25,"Developer, full-stack",0.07,0.045,0.041,,,
+2,16.958,12.471,4.421,3.248,0.855,1.201,,,,,0.717,2768,7.4,"Developer, full-stack",0.647,,0.699,1.0,0.627,
+3,17.779,13.613,4.191,3.184,0.837,1.3,0.496,,,,0.886,13204,35.29,"Developer, full-stack",0.747,,,,0.832,0.64
