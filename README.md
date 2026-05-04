@@ -99,7 +99,7 @@ All outputs are saved to `/kaggle/working/` when run on Kaggle Notebooks.
 
 ## How to Run on Kaggle
 
-1. **Upload the dataset** — Add `survey_results_public.csv` as a Kaggle dataset input to your notebook (it will appear under `/kaggle/input/`).
+1. **Upload the dataset** — Add `survey_results_public.csv` as a Kaggle dataset input to your notebook (it will appear under `/kaggle/input/`) or use "Add Input" button to find [Kaggle Dataset — Edoardo Galli](https://www.kaggle.com/datasets/edoardogalli/stack-overflow-annual-developer-survey-2025).
 
 2. **Open each notebook** — Upload the `.ipynb` files from the `notebooks/` folder to a Kaggle Notebook environment. Select Python 3 kernel.
 
