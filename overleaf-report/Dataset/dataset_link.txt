@@ -1,0 +1,7 @@
+Stack Overflow Annual Developer Survey 2025
+==========================================
+Kaggle Dataset: https://www.kaggle.com/datasets/edoardogalli/stack-overflow-annual-developer-survey-2025
+Official Stack Overflow Survey: https://survey.stackoverflow.co/
+File: survey_results_public.csv
+Rows: ~52,845 developer responses
+Columns: 172
